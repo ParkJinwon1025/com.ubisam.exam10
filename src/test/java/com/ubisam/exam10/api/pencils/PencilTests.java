@@ -10,7 +10,6 @@ import static io.u2ware.common.docs.MockMvcRestDocs.result;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
 import java.util.ArrayList;
-import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 

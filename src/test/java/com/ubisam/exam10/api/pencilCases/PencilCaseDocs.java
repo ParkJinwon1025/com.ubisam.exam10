@@ -5,7 +5,6 @@ import java.util.Map;
 
 import org.springframework.stereotype.Component;
 
-import com.ubisam.exam10.domain.Pencil;
 import com.ubisam.exam10.domain.PencilCase;
 
 import io.u2ware.common.docs.MockMvcRestDocs;

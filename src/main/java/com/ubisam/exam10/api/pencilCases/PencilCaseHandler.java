@@ -2,8 +2,6 @@ package com.ubisam.exam10.api.pencilCases;
 
 import java.io.Serializable;
 
-import javax.swing.text.html.HTMLDocument.HTMLReader.SpecialAction;
-
 import org.springframework.data.jpa.domain.Specification;
 import org.springframework.data.rest.core.annotation.HandleAfterCreate;
 import org.springframework.data.rest.core.annotation.HandleAfterDelete;
